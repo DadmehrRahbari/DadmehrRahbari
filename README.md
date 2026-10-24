@@ -15,6 +15,7 @@ I build infrastructure software that sits where standard cloud solutions and tra
 * **OT/IT Break-and-Inspect Mediation Authority:** A Level 3.5 industrial cybersecurity platform that enforces security inline.
 * **Key Features:** Per-asset AI behavior scoring, cryptographic forensic audit trails (SHA-256 + Ed25519), financial ROI per blocked threat, and privacy-preserving federated learning across plants without cloud dependency.
 * **Compliance Alignment:** NIST 800-82 R3, IEC 62443 SL-2, and MITRE ATT&CK ICS v14.
+* **Primary Domains:** Manufacturing, Energy, Water, Wastewater, Oil and Gas.
 
 #### 📱 [HeliTrust](https://healthi.pages.dev/)
 * **Privacy-First AI Safety Monitoring:** Turns standard edge hardware (phones) into a 24/7 safety and fall-detection monitor.
