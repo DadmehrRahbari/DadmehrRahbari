@@ -1,4 +1,4 @@
-### 👋 Hello, I'm building independent, secure, and privacy-first AI systems.
+### Welcome to this page. I'm building independent, secure, and privacy-first AI systems.
 
 I build infrastructure software that sits where standard cloud solutions and traditional monitoring fall short—focusing on runtime AI trust layers, industrial OT security, and edge-computed health safety.
 
@@ -18,10 +18,11 @@ I build infrastructure software that sits where standard cloud solutions and tra
 
 #### 📱 [HeliTrust](https://healthi.pages.dev/)
 * **Privacy-First AI Safety Monitoring:** Turns standard edge hardware (phones) into a 24/7 safety and fall-detection monitor.
-* **Key Features:** Uses **Unifying Contextual Weights** to process motion telemetry entirely on-device—ensuring absolute GDPR compliance where raw sensor data never touches a cloud server.
+* **Key Features:** Uses **Unifying Contextual Weights** to process motion telemetry entirely on-device, ensuring absolute GDPR compliance where raw sensor data never touches a cloud server.
 * **Primary Domains:** Eldercare facilities, lone-worker safety, and remote physiological baseline tracking.
 
 ---
 
 ### 📬 Connect With Me
 * [LinkedIn](https://www.linkedin.com/in/dadmehr-rahbari-66050279/)
+* [Website](https://sites.google.com/view/itprco/home;)
