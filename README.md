@@ -1,10 +1,10 @@
 ### Welcome to this page. I'm building independent, secure, and privacy-first AI systems.
 
-I build infrastructure software that sits where standard cloud solutions and traditional monitoring fall short—focusing on runtime AI trust layers, industrial OT security, and edge-computed health safety.
+I build infrastructure software that sits where standard cloud solutions and traditional monitoring fall short, focusing on runtime AI trust layers, industrial OT security, and edge-computed health safety.
 
 ---
 
-### 🚀 Products & Platforms
+### 🚀 Top Products & Platforms
 
 #### 🛡️ [AuxAI](https://auxai.pages.dev/)
 * **Independent Trust Layer for AI:** A lightweight monitor that watches any autonomous or AI-driven system inference-by-inference.
@@ -20,6 +20,14 @@ I build infrastructure software that sits where standard cloud solutions and tra
 * **Privacy-First AI Safety Monitoring:** Turns standard edge hardware (phones) into a 24/7 safety and fall-detection monitor.
 * **Key Features:** Uses **Unifying Contextual Weights** to process motion telemetry entirely on-device, ensuring absolute GDPR compliance where raw sensor data never touches a cloud server.
 * **Primary Domains:** Eldercare facilities, lone-worker safety, and remote physiological baseline tracking.
+
+#### 🚗 [LLM Jailbreak Mitigation for Autonomous Vehicles](https://github.com/DadmehrRahbari/LLM_Jailbreak_Mitigation_Autonomous_Vehicles)
+* **Research & Implementation:** Focuses on securing large language models and decision-making pipelines against prompt injection, adversarial attacks, and jailbreaks in autonomous vehicle contexts.
+* **Key Focus:** Ensuring safety-critical AI systems maintain correct operational constraints and resilient command handling under malicious input manipulation.
+
+#### 🔬 [FDSH: Adaptive and Efficient Federated Distillation with Selective Homomorphic Encryption](https://github.com/DadmehrRahbari/FDSH)
+* **Research Implementation:** Published in *Expert Systems with Applications* (2025), presenting an adaptive, privacy-preserving, and energy-aware federated learning framework for resource-constrained edge devices.
+* **Key Innovations:** Combines entropy-aware Selective Homomorphic Encryption (SHE), hierarchical federated knowledge distillation, and real-time energy-aware client participation to optimize privacy-utility-efficiency trade-offs.
 
 ---
 
