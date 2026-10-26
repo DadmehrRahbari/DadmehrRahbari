@@ -37,7 +37,7 @@ I build infrastructure software that sits where standard cloud solutions and tra
 * **Published Research Implementation:** Published in *Expert Systems with Applications* (2025), presenting an adaptive, privacy-preserving, and energy-aware federated learning framework for resource-constrained edge devices.
 * **Key Innovations:** Combines entropy-aware Selective Homomorphic Encryption (SHE), hierarchical federated knowledge distillation, and real-time energy-aware client participation to optimize privacy-utility-efficiency trade-offs.
 
-More completed projects can be seen **[here →]**(https://scholar.google.com/citations?user=5UYrTicAAAAJ&hl=en).
+More completed projects can be seen **[here →](https://scholar.google.com/citations?user=5UYrTicAAAAJ&hl=en)**.
 
 ---
 
